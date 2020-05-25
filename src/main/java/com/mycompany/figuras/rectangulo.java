@@ -22,4 +22,7 @@ public class rectangulo {
         return lado1*lado2;
     }
     
+    public double obtnerPerimetro(){
+        return (lado1*2)+(lado2*2);
+    }
 }
